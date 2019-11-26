@@ -1,0 +1,55 @@
+{
+  "titulo": "Equipos Futbol Argentino",
+  "subtitulo": "COPAS INTERNACIONALES OFICIALES",
+  "active": true,
+  "equipos": [
+    {
+      "escudo": "img/boca.png",
+      "nombre": "Boca Juniors",
+      "fundacion": 1905,
+      "estadio": "Alberto José Armando",
+      "cantidad": 18,
+      "titulos": [
+        "COPA INTERCONTINENTAL (3)",
+        "COPA LIBERTADORES (6)",
+        "COPA SUDAMERICANA (2)",
+        "RECOPA (4)",
+        "SUPERCOPA (1)",
+        "COPA MASTER (1)",
+        "COPA NICOLAS LEOZ (1)"
+      ]
+    },
+    {
+      "escudo": "img/cai.png",
+      "nombre": "Independiente",
+      "fundacion": 1904,
+      "cantidad": 18,
+      "estadio": "Estadio Libertadores de América",
+      "titulos": [
+        "COPA INTERCONTINENTAL (2)",
+        "COPA LIBERTADORES (7)",
+        "COPA SUDAMERICANA (2)",
+        "RECOPA (1)",
+        "COPA INTERAMERICANA (3)",
+        "SUPERCOPA (2)",
+        "COPA SURUGA BANK (1)"
+      ]
+    },
+    {
+      "escudo": "img/river.png",
+      "nombre": "River Plate",
+      "fundacion": 1901,
+      "cantidad": 12,
+      "estadio": "Estadio Monumental Antonio Vespucio Liberti",
+      "titulos": [
+        "COPA INTERCONTINENTAL (1)",
+        "COPA LIBERTADORES (4)",
+        "COPA SUDAMERICANA (1)",
+        "RECOPA (3)",
+        "COPA INTERAMERICANA (1)",
+        "SUPERCOPA (1)",
+        "COPA SURUGA BANK (1)"
+      ]
+    }
+  ]
+}
